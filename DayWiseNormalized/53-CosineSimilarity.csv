@@ -1,0 +1,12 @@
+firstdevice,seconddevice,daytimestampFirst,daytimestampFirstID,daytimestampSecond,daytimestampSecondID,cosinesimilarity
+53,53,09-21-16-Wednesday,10,09-21-16-Wednesday,10,1.0
+53,56,09-21-16-Wednesday,10,01-29-17-Sunday,140,0.788266005735
+53,45,09-21-16-Wednesday,10,12-21-16-Wednesday,101,0.756860968692
+53,1,09-21-16-Wednesday,10,09-27-16-Tuesday,16,0.748811531638
+53,7,09-21-16-Wednesday,10,12-13-16-Tuesday,93,0.701759916197
+53,7,09-21-16-Wednesday,10,09-20-16-Tuesday,9,0.682394279998
+53,33,09-21-16-Wednesday,10,10-11-16-Tuesday,30,0.678086103873
+53,56,09-21-16-Wednesday,10,01-25-17-Wednesday,136,0.666784089337
+53,45,09-21-16-Wednesday,10,11-07-16-Monday,57,0.658840941341
+53,24,09-21-16-Wednesday,10,01-05-17-Thursday,116,0.656609476336
+53,5,09-21-16-Wednesday,10,01-01-17-Sunday,112,0.654946740299
